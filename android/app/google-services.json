@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "580369125580",
+    "firebase_url": "https://flutttershare.firebaseio.com",
+    "project_id": "flutttershare",
+    "storage_bucket": "flutttershare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580369125580:android:e68074bddee12dcb303269",
+        "android_client_info": {
+          "package_name": "me.nattapon.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580369125580-0o5jlrh59i3m2esmq4vl4c8h4kjhe6kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.nattapon.app1",
+            "certificate_hash": "7fd077267f25d10cc450eef4934ab303e885b285"
+          }
+        },
+        {
+          "client_id": "580369125580-m8cds6tlekipk0qvp4ksd1dm967gb5jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWF1gZlut73pcHkinAftSP973h2FPQiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580369125580-m8cds6tlekipk0qvp4ksd1dm967gb5jv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580369125580-5qj86p3ihj8sg4841m0sjjkidt4squn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.nattapon.fluttershare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580369125580:android:692cf78eadbbfa35303269",
+        "android_client_info": {
+          "package_name": "me.nattapon.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580369125580-m82l4ja6kj6co1dhpvjrv8p2eseouue7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.nattapon.fluttershare",
+            "certificate_hash": "7fd077267f25d10cc450eef4934ab303e885b285"
+          }
+        },
+        {
+          "client_id": "580369125580-m8cds6tlekipk0qvp4ksd1dm967gb5jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWF1gZlut73pcHkinAftSP973h2FPQiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580369125580-m8cds6tlekipk0qvp4ksd1dm967gb5jv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580369125580-5qj86p3ihj8sg4841m0sjjkidt4squn2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.nattapon.fluttershare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
