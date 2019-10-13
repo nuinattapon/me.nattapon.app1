@@ -65,6 +65,10 @@
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
 
+# Firebase API keys should not be checked into github
+**/google-services.json
+**/GoogleService-Info.plist
+
 # Exceptions to above rules.
 !**/ios/**/default.mode1v3
 !**/ios/**/default.mode2v3
